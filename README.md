@@ -40,19 +40,5 @@ This Real-Time Location Sharing App is a web application that allows users to sh
    npm start
    ```
 
-4. **Open in Browser:**
-   Open your web browser and go to [http://localhost:80/](http://localhost:80/)
 
-## Usage
 
-1. **Share Location:**
-   - Click on "Share My Location" to generate a unique sharing ID.
-   - Share the ID with friends or colleagues.
-
-2. **Watch Location:**
-   - Visit [http://localhost:80/sharingid/{your-sharing-id}](http://localhost:80/sharingid/{your-sharing-id}) to watch a specific location.
-   - View real-time location updates and historical path.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues and pull requests.
